@@ -6,21 +6,10 @@
 
 </div>
 
-<div align="center">
+
 ![HunTeac's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunTeac&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HunTeac&layout=compact)
-</div>
-
-
-<div align="center">
-<a href="https://github.com/HunTeac">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HunTeac&show_icons=true&theme=buefy&card_width=320" />
-</a>
-<a href="https://github.com/HunTeac?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HunTeac&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
 
 
 
