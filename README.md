@@ -8,8 +8,14 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=98cline)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98cline&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://github.com/yyoungl">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=98cline&show_icons=true&theme=buefy&card_width=320" />
+</a>
+<a href="https://github.com/yyoungl?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=98cline&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
 
 
