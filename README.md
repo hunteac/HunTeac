@@ -9,10 +9,10 @@
 
 <div align="center">
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HunTeac&show_icons=true&theme=tokyonight"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HunTeac&show_icons=true&theme=tokyonight&card_width=320"/>
 
 
-<img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunTeac&layout=compact&theme=tokyonight" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunTeac&layout=compact&theme=tokyonight&card_width=320" />
 
 </div>
 
