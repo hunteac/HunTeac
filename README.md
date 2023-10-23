@@ -7,7 +7,7 @@
 </div>
 
 
-<div>
+<div style="display:flex">
   
 ![HunTeac's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunTeac&show_icons=true&theme=tokyonight)
 
